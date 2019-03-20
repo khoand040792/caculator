@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  width: 16em;
+  flex-direction: column;
+}
+
+.item {
+  width: 4em;
+  height: 4em;
+  border: 1px black solid;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.result {
+  border: 1px black solid;
+  height: 3em;
+  text-align: right;
+}
