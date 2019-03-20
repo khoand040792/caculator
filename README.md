@@ -1,4 +1,4 @@
-<img src="https://www.google.com.vn/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjpl5Po0Y_hAhVLQN4KHTFMDLgQjRx6BAgBEAU&url=http%3A%2F%2Frightawayredymix.com%2Fcustomer-tools%2Fconcrete-calculator%2F&psig=AOvVaw1UbManUGtDLT9YZYkiclJx&ust=1553134159396757" alt="react boilerplate banner" align="center" />
+<img src="http://rightawayredymix.com/wp-content/uploads/2018/04/icon-tools-calculator.png" alt="react boilerplate banner" align="center" />
 
 <br />
 
