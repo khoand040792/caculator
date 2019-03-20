@@ -1,4 +1,4 @@
-<img src="http://rightawayredymix.com/wp-content/uploads/2018/04/icon-tools-calculator.png" alt="react boilerplate banner" align="center" />
+<img src="http://rightawayredymix.com/wp-content/uploads/2018/04/icon-tools-calculator.png" alt="react boilerplate caculator" align="center" />
 
 <br />
 
