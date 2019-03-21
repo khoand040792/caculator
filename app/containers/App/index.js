@@ -11,7 +11,8 @@ import { Helmet } from 'react-helmet';
 import { Switch, Route } from 'react-router-dom';
 
 import NotFoundPage from 'containers/NotFoundPage/Loadable';
-import CaculatorPage from '../CaculatorPage/Loadable';
+// import TestTablePage from 'containers/TestTablePage/Loadable';
+import CaculatorPage from 'containers/CaculatorPage/Loadable';
 
 export default function App() {
   return (
